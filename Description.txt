@@ -1,0 +1,1 @@
+start.py : Tutorial on initialization of pygame and How to move the object.
